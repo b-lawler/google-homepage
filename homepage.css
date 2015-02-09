@@ -1,0 +1,26 @@
+#logo{
+	
+	width:650px;
+	margin:150px auto 0 auto;
+}
+	
+
+#logo img{
+	width:315px;
+	display:block;
+	margin:0 auto;
+}
+
+.buttons{
+	width:245px;
+	margin:20px auto 0 auto;
+}
+
+input[type="text"]{
+	width:650px;
+	height:30px;
+}
+input[type="submit"]{
+	margin:0 5px 0 5px;
+	padding:5px;
+}
